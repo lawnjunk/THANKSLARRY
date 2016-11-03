@@ -5,4 +5,4 @@ for copy-paste
 
 *If you look closely, you can see the invisible keyboard*
 
-> -- Elizabeth kleinschmidt
+> -- Elizabeth Kleinschmidt
