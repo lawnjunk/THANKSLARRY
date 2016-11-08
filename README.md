@@ -5,4 +5,6 @@ for copy-paste
 
 *If you look closely, you can see the invisible keyboard*
 
-> -- Elizabeth Kleinschmidt haxed this accound :)
+![Thanks Larry!](magiclarry.jpeg)
+
+*Larry demonstrates his tiny, invisible magic copy-paste wand*
