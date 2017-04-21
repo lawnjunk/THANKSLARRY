@@ -1,7 +1,7 @@
 # THANKS LARRY
 for copy-paste
 
-![Thanks Larry!](larry-larry-larry.jpeg)
+![Thanks Larry!](larry-larry-larry.jpg)
 
 *If you look closely, you can see the invisible keyboard*
 
