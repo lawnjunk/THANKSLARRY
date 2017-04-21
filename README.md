@@ -5,6 +5,6 @@ for copy-paste
 
 *If you look closely, you can see the invisible keyboard*
 
-![Thanks Larry!](magiclarry.jpeg)
+![Thanks Larry!](magiclarry.jpeg = 200x400)
 
 *Larry demonstrates his tiny, invisible magic copy-paste wand*
